@@ -1,0 +1,2 @@
+Machine Learning Project | Makeup Detection & Price Prediction
+Developed a machine learning model that detects makeup products and predicts their price based on product features. The project involved data preprocessing, feature engineering, model training, and evaluation to improve accuracy and reliability. This project strengthened my practical understanding of applied ML, data analytics, and real-world problem solving in the beauty & retail domain.
